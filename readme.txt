@@ -1,2 +1,2 @@
 I'm new here to learn Git.
-Git is very powerful.
+Git is a very powerful distributed version control system.
